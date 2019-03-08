@@ -153,8 +153,9 @@ django-appconf==1.0.2 \
     --hash=sha256:ddab987d14b26731352c01ee69c090a4ebfc9141ed223bef039d79587f22acd9
 django-autocomplete-light==3.2.10 \
     --hash=sha256:5ccb1c8c4b75cf72bc5dabd920190ea1ca3a340f56fb6b12d07a62202837fa75
-tablib==0.12.1 \
-    --hash=sha256:b8cf50a61d66655229993f2ee29220553fb2c80403479f8e6de77c0c24649d87
+tablib==0.13.0 \
+    --hash=sha256:0f88a9cebdaa1a2cc29ae57387082ee81015d1149ecd34e48a8c8d3b4dd21670 \
+    --hash=sha256:5f33c079b07eb10cf9c4b4696add2ecf32c89db7729240546ecdcd5c92f67e13
 django-autoslug==1.9.4 \
     --hash=sha256:08ba143ce5914d2689972c0adaea56abc37fb7175e9f6939fe0e3ac26374e7a0 \
     --hash=sha256:aece8613eb173854462c656e91d81aa7ddfacaa49fb500d549f2143d1ce48721
